@@ -9,7 +9,6 @@
 
 library(ipumsr)      # for IPUMS API
 library(tidyverse)   # for data management
-library(BayesFactor) # for Bayesian model 
 library(rstanarm)    # for modeling 
 library(olsrr)       # for ordinary least square regression 
 library(modelsummary) # for describing many models 
