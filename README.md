@@ -21,7 +21,7 @@ This repository contains the analysis for a study of New York City's child care 
 
 ### NYC Child Care Capacity Over a Decade — OCFS
 
-> Available at: https://ocfs.ny.gov/programs/childcare/data/ or included in this repository under `data/raw/`
+> Available at: https://ocfs.ny.gov/programs/childcare/data/ or included in this repository
 
 The NY State Office of Children and Family Services publishes annual Child Care Facts and Figures reports tracking the number and capacity of licensed and registered child care programs statewide. Records were filtered to NYC providers and aggregated by year and program modality. The original data does not come structured for year-over-year analysis and was restructured using OpenRefine before analysis.
 
@@ -38,7 +38,7 @@ The NY State Office of Children and Family Services publishes annual Child Care 
 
 ### Active NYC Health Code Regulated Child Care Programs — NYC Open Data
 
-> Available at: https://data.cityofnewyork.us/Health/Active-Child-Care-Programs/dsg6-ifza or included in this repository under `data/raw/`
+> Available at: https://data.cityofnewyork.us/Health/Active-Child-Care-Programs/dsg6-ifza or included in this repository
 
 Point-level locations of active, health code regulated child care programs across all five boroughs. Used in conjunction with the OCFS capacity data to spatially join provider locations to PUMA polygons in ArcGIS Pro.
 
